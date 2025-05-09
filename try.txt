@@ -1,9 +1,3 @@
+this is from backend
 
-
-this is from local repository
-
-
-frontend file
-
-this is backend repo
 
