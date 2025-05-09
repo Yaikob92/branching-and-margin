@@ -1,10 +1,2 @@
+this is from main
 
-
-this is from local repository
-another change from local repo
-
-this is from local repository
-change using remote repo
-
-
-also adding my additional file
