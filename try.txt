@@ -1,2 +1,2 @@
-<<<<<<< HEAD
 this is from local repository
+change using romote repo
